@@ -5,7 +5,7 @@ AI-Powered Sentiment Analysis in Microsoft Fabric with Azure OpenAI
 
 In today's data-driven world, understanding customer sentiment at scale is a powerful asset for any organization. With the recent advancements in AI and the flexibility of Microsoft Fabric, we now have the tools to build intelligent, end-to-end solutions entirely within the Microsoft ecosystem.
 
-In this post, I’ll walk you through a practical use case: performing sentiment analysis on customer feedback using Microsoft Fabric, Azure OpenAI, and PySpark—all orchestrated with Fabric Data Pipelines and visualized in Power BI.
+In this project, I’ll walk you through a practical use case: performing sentiment analysis on customer feedback using Microsoft Fabric, Azure OpenAI, and PySpark—all orchestrated with Fabric Data Pipelines and visualized in Power BI.
 
 What We’re Solving
 
